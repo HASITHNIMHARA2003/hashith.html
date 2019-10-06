@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>demo</title>
+	<link rel="stylesheet" type="text/css" href="page1.css">
+</head>
+<body>
+	<h1>CSS TUTORIAL</h1>
+
+	<p>A CSS3 Tutorial that will cover pretty much everything in one tutorial</p>
+
+	<h2>Lets do it </h2>
+
+
+	<div>
+		<h3>my favorite movies</h3>
+
+			<ul>
+				<li><a class="movie">dora</a></li>
+				<li><a class="movie">dora13</a></li>
+				<li><a class="movie">dorajnd</a></li>
+			</ul>
+	</div>
+
+
+
+
+	<h2>my favourite movie quote</h2>
+
+	<p id="quote">ffffffffffffffffffffuuuuuuuuuuuuuuuuccccccccccccccccccckkkkkkkkkkkkkkkkkkkkkkkkk
+		<span id="author">-pope Alexander</span></p>
+
+	<p class="games">I love<a href="youtube.com">YOUTUBE</a></p>
+
+	<p>some stuff that I put in my CV</p>
+		<div id="skills">
+			<ol>
+				<li>NODEJ5</li>
+				<li>BLOCKCHAINS</li>
+				<li>NETWORK SECURITY</li>
+			</ol>
+
+			<ul>
+				<li id="skills">SASS</li>
+				<li>HAML</li>
+			</ul>
+		</div>
+
+
+	<h3>favourite vedio games</h3>
+	<p>list of my current<a href="tvshows">favourite tv shows</a></p>
+		<ul>
+			<li alt="nbo">the wire</li>
+			<li alt="nbo">sporjfbj</li>
+			<li alt="nbo">bojackkmkne</li>
+			<li alt="nbo">game of thrones</li>	
+		</ul>
+
+
+
+</body>
+</html>
